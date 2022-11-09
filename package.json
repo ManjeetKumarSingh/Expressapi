@@ -1,0 +1,22 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "Expressapi and its practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjeetKumarSingh/Expressapi.git"
+  },
+  "author": "Manjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjeetKumarSingh/Expressapi/issues"
+  },
+  "homepage": "https://github.com/ManjeetKumarSingh/Expressapi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
